@@ -6,9 +6,9 @@
 </div>
 
 <h3 align="center">
-  <a href="Sobre">Sobre</a> |
-  <a href="Tecnologias">Tecnologias</a> |
-  <a href="Preview">Preview</a>
+  <a href="#sobre">Sobre</a> |
+  <a href="#tecnologias">Tecnologias</a> |
+  <a href="#preview">Preview</a>
 </h3>
 
 ___
