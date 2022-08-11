@@ -20,10 +20,10 @@ Clone da página de login do Instagram com intuito de aprimorar e rever conceito
 <img width="949" alt="image" src="https://user-images.githubusercontent.com/88735994/180892577-10880f17-ada2-4a5a-8796-818ca4dfc748.png">
 
 
-## 🛠️ Tecnologias
+## Tecnologias 🛠️
 * ``HTML``
 * ``CSS``
 * ``JavaScript``
 
-## 🖥️ Preview
+## Preview 🖥️ 
 Você pode acessar a demo deste projeto pelo link https://emily-sousa.github.io/instagram-login/
